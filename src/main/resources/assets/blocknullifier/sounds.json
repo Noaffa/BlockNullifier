@@ -1,0 +1,42 @@
+{
+  "trigger": {
+    "subtitle": "blocknullifier:trigger",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "blocknullifier:trigger",
+        "steam": true
+      }
+    ]
+  },
+  "shoot0": {
+    "subtitle": "blocknullifier:shoot0",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "blocknullifier:shoot0",
+        "steam": true
+      }
+    ]
+  },
+  "shoot1": {
+    "subtitle": "blocknullifier:shoot1",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "blocknullifier:shoot1",
+        "steam": true
+      }
+    ]
+  },
+  "shoot2": {
+    "subtitle": "shoot2",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "blocknullifier:shoot2",
+        "steam": true
+      }
+    ]
+  }
+}
